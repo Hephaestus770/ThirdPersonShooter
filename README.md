@@ -30,5 +30,4 @@ A short video of my project
 
 
 
-
-If the embedded video doesn't work, this is the youtube link: https://youtu.be/3Jk3Xcf-ZvY
+https://youtu.be/3Jk3Xcf-ZvY
