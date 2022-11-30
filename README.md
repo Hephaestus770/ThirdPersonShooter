@@ -2,4 +2,4 @@
 This is my main project in C++.
 
 
-[![C++Shooter](https://i.ytimg.com/vi/3Jk3Xcf-ZvY/maxresdefault.jpg)](https://www.youtube.com/watch?v=3Jk3Xcf-ZvY)
+[![C++Shooter](https://i.ytimg.com/vi/3Jk3Xcf-ZvY/maxresdefault.jpg)](https://www.youtube.com/embed/3Jk3Xcf-ZvY)
