@@ -1,5 +1,5 @@
 # ThirdPersonShooter
-This is my Unreal 5 project made in C++ (I used blueprint for targets and openable door) and it's still at a very early stage. The most challenging part was the drone. You can take a look at Drone.cpp in the Source file to see how the drone works, I think it's self explanatory code. </br>
+This is my Unreal 5 project made in C++ (I used blueprint for targets and openable door) and it's still at a very early stage. You can take a look at Drone.cpp in the Source file to see how the drone works, other things like dash or spawning the drone is in ShooterCharacter.cpp. I think with comments, this is very self explanatory code. </br>
 
 
 
